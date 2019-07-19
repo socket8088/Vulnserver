@@ -1,4 +1,8 @@
 #!/usr/bin/python
+# Author: Xavi Bel
+# Website: xavibel.com
+# Date: 20/07/2019
+# Vulnserver GMON - Egghunter
 import socket
 import os
 import sys
